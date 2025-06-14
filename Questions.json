@@ -1,14 +1,12 @@
-{
-    "questions": [
-        "Is [@] a morning person?",
-        "Does [@] like risky adventures?",
-        "Does [@] liketo be around people?",
-        "Is [@] the life of the party?",
-        "Does [@] like to play chess?",
-        "Is fashion important to [@]?",
-        "Does [@] enjoy their own company?",
-        "Does [@] like to read?",
-        "Is [@] interested in sports?",
-        "Does [@] like learning new things?"
-    ]
-}
+[
+    "Is [@] a morning person?",
+    "Does [@] like risky adventures?",
+    "Does [@] liketo be around people?",
+    "Is [@] the life of the party?",
+    "Does [@] like to play chess?",
+    "Is fashion important to [@]?",
+    "Does [@] enjoy their own company?",
+    "Does [@] like to read?",
+    "Is [@] interested in sports?",
+    "Does [@] like learning new things?"
+]
